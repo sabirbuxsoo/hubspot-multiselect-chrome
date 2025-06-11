@@ -14,7 +14,14 @@
                 "https://app-eu1.hubspot.com/contacts/*/views/all/list*",
                 "https://app-eu2.hubspot.com/contacts/*/views/all/list*",
                 "https://app-eu3.hubspot.com/contacts/*/views/all/list*",
-                "https://app-eu1.hubspot.com/contacts/*/record/*"
+                "https://app.hubspot.com/contacts/*/record/*",
+                "https://app-eu1.hubspot.com/contacts/*/record/*",
+                "https://app-eu2.hubspot.com/contacts/*/record/*",
+                "https://app-eu3.hubspot.com/contacts/*/record/*",
+                "https://app.hubspot.com/help-desk/*",
+                "https://app-eu1.hubspot.com/help-desk/*",
+                "https://app-eu2.hubspot.com/help-desk/*",
+                "https://app-eu3.hubspot.com/help-desk/*"
             ],
             "js": [
                 "multiselect.js"
