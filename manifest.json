@@ -1,0 +1,27 @@
+{
+    "manifest_version": 3,
+    "name": "Hubspot MultiSelect",
+    "version": "1.0",
+    "description": "Select multiple rows in Hubspot using Shift+Click.",
+    "permissions": [
+        "scripting",
+        "activeTab"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://app.hubspot.com/contacts/*/views/all/list*",
+                "https://app-eu1.hubspot.com/contacts/*/views/all/list*",
+                "https://app-eu2.hubspot.com/contacts/*/views/all/list*",
+                "https://app-eu3.hubspot.com/contacts/*/views/all/list*"
+            ],
+            "js": [
+                "multiselect.js"
+            ],
+            "run_at": "document_idle"
+        }
+    ],
+    "icons": {
+        "128": "icons/icon.png"
+    }
+}
