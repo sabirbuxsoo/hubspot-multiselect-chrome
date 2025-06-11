@@ -5,6 +5,8 @@ This Chrome extension lets you **Shift+Click** checkboxes to select multiple row
 
 <img src="https://145924978.fs1.hubspotusercontent-eu1.net/hubfs/145924978/Hubspot%20MultiSelect.gif" alt="HubSpot MultiSelect Demo" width="50%">
 
+<img src="https://145924978.fs1.hubspotusercontent-eu1.net/hubfs/145924978/Multi-Select%20Property.gif" alt="HubSpot MultiSelect Demo" width="50%">
+
 
 ## 🧠 Why?
 Because clicking one checkbox at a time is so 2005.  
