@@ -13,7 +13,8 @@
                 "https://app.hubspot.com/contacts/*/views/all/list*",
                 "https://app-eu1.hubspot.com/contacts/*/views/all/list*",
                 "https://app-eu2.hubspot.com/contacts/*/views/all/list*",
-                "https://app-eu3.hubspot.com/contacts/*/views/all/list*"
+                "https://app-eu3.hubspot.com/contacts/*/views/all/list*",
+                "https://app-eu1.hubspot.com/contacts/*/record/*"
             ],
             "js": [
                 "multiselect.js"
