@@ -3,6 +3,11 @@
 Supercharge your checkbox-clicking powers! 💥  
 This Chrome extension lets you **Shift+Click** checkboxes to select multiple rows inside your Hubspot objects
 
+**Works on**
+- Objects Listings: Contacts, Companies, Deals, Custom Objects
+- Object Record Multi-Select Properties
+- Help Desk Ticket Listing
+
 <img src="https://145924978.fs1.hubspotusercontent-eu1.net/hubfs/145924978/Hubspot%20MultiSelect.gif" alt="HubSpot MultiSelect Demo" width="70%">
 
 <img src="https://145924978.fs1.hubspotusercontent-eu1.net/hubfs/145924978/Multi-Select%20Property.gif" alt="HubSpot MultiSelect Demo" width="70%">
