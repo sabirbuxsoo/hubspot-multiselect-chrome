@@ -1,4 +1,4 @@
-# Hubspot MultiSelect
+# HS MultiSelect
 
 Supercharge your checkbox-clicking powers! 💥  
 This Chrome extension lets you **Shift+Click** checkboxes to select multiple rows inside your Hubspot objects
